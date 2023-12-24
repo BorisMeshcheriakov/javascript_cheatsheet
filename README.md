@@ -1,9 +1,15 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Javascript cheatsheet
 
-This project has been created using **webpack-cli**, you can now run
+Run project with
+
+```
+npm run watch
+```
+
+or
 
 ```
 npm run build
 ```
 
-to bundle your application
+to bundle application
