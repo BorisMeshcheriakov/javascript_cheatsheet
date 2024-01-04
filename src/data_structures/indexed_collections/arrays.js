@@ -1,3 +1,8 @@
+/**
+ * Методы массива
+ * @module data_structures/indexed_collections/array
+ */
+
 const arr = new Array(1, 2, 3, 4, 5); // [ 1, 2 ]
 
 const species = arr[Symbol.species]; // Undefined, TODO Что такое species

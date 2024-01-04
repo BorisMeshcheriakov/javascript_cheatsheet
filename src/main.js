@@ -1,6 +1,9 @@
-export * from "./all_about_variables";
-export * from "./data_types";
+import "./all_about_variables";
 
-export * from "./data_structures";
+import "./all_about_variables";
 
-export * from "./using_this_keyword.js";
+import "./data_types";
+
+import "./data_structures";
+
+import "./using_this_keyword.js";

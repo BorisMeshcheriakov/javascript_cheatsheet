@@ -1,3 +1,8 @@
+/**
+ * Методы типа данных number
+ * @module data_types/primitive_types/number
+ */
+
 const NUM = 255;
 const FLOAT = 255.0;
 

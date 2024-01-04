@@ -1,3 +1,8 @@
+/**
+ * Методы типа данных string
+ * @module data_types/primitive_types/string
+ */
+
 const TEST_STRING = "Lorem ipsum dolor sit amet";
 const TEST_STRING2 = ", consectetur adipiscing elit";
 

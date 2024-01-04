@@ -1,3 +1,7 @@
+/**
+ * @module data_types/object
+ */
+
 const obj = new Object({ name: "John", age: 20 });
 
 const target = { a: 1, b: 2 };
